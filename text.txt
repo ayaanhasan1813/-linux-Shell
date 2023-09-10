@@ -1,0 +1,8 @@
+hello, how are you
+i am fine ,you tell.
+i am fine ,you tell.
+babe you are so cute.
+babe you are so cute.
+The “fib” and “helloworld” are the executables of a Fibonacci number
+The “fib” and “helloworld” are the executables of a Fibonacci number
+
